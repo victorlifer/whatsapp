@@ -1,1 +1,2 @@
-configfuração versao1
+configuração versao1
+configuração versao 2
